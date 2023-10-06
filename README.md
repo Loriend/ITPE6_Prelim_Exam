@@ -1,5 +1,4 @@
-This is your prelim laboratory exam.
+Name: Jloriend Rabang
+Age: 21
+### Jejemon ako
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
